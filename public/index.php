@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    This is page index html.
+    This is page index php.
+    <?php echo'Hello'?>
 </body>
 </html>
